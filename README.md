@@ -1,3 +1,4 @@
+<img align="right" width="400" src="keep-coding.png" />
 ### Hi there 👋
 
 Fullstack Web Developer | Grupo EUAX | Ruby on Rails | PHP | | Java | NodeJS | React :robot:.
