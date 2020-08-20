@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**fernandocchaves/fernandocchaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Web Developer | Grupo EUAX | Ruby on Rails | PHP | | Java | NodeJS | React :robot:.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Ruby on Rails, React e AWS
+- 🌱 I’m currently learning best practices, javascript, typescript and devOps IAC
+- 🤔 I’m looking for exchange of experiences
+- 💬 Ask me about anything, maybe I don't know all, but I will search
+- 📫 Feel free to [e-mail](mailto:fernandocchaves@gmail.com) me.
+
+---
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fernandocchaves)
