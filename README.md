@@ -1,5 +1,6 @@
-<img align="right" width="400" src="keep-coding.png" />
-### Hi there 👋
+<img align="right" width="400" src="https://static.dribbble.com/users/10549/screenshots/9916149/media/a9dbfea8e23e5b8e23db142528c3bc9f.png">
+
+# Hi there 👋
 
 Fullstack Web Developer | Grupo EUAX | Ruby on Rails | PHP | | Java | NodeJS | React :robot:.
 
